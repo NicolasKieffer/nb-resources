@@ -1,0 +1,14 @@
+{
+  "entry": "SHS-STM.json",
+  "SHS": "SHS.json",
+  "STM": "001-002.json",
+  "001": "001.json",
+  "002": "002.json",
+  "001A": "001A.json",
+  "001B": "001B.json",
+  "001C": "001C.json",
+  "001D": "001D.json",
+  "001E": "001E.json",
+  "002A": "002A.json",
+  "002B": "002B.json"
+}
