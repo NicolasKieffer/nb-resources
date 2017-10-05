@@ -1,14 +1,14 @@
 {
-  "entry": "SHS-STM.json",
-  "SHS": "SHS.json",
-  "STM": "001-002.json",
-  "001": "001.json",
-  "002": "002.json",
-  "001A": "001A.json",
-  "001B": "001B.json",
-  "001C": "001C.json",
-  "001D": "001D.json",
-  "001E": "001E.json",
-  "002A": "002A.json",
-  "002B": "002B.json"
+  "entry": "./trainings/SHS-STM.json",
+  "SHS": "./trainings/SHS.json",
+  "STM": "./trainings/001-002.json",
+  "001": "./trainings/001.json",
+  "002": "./trainings/002.json",
+  "001A": "./trainings/001A.json",
+  "001B": "./trainings/001B.json",
+  "001C": "./trainings/001C.json",
+  "001D": "./trainings/001D.json",
+  "001E": "./trainings/001E.json",
+  "002A": "./trainings/002A.json",
+  "002B": "./trainings/002B.json"
 }
