@@ -21,5 +21,5 @@ module.exports = {
   },
   "mapping": require("./mapping.json"),
   "verbalization": require("./verbalization.json"),
-  "template": fs.readFileSync("./fragment.tei.xml.tpl")
+  "template": "./fragment.tei.xml.tpl"
 };
