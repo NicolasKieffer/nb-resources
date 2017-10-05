@@ -3,8 +3,6 @@
 /* jslint indent: 2 */
 'use strict';
 
-let fs = require("fs");
-
 let resources = {
   "trainings": {},
   "mapping": require("./mapping.json"),
