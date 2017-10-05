@@ -16,6 +16,4 @@ for (let key in resources.mapping) {
   resources.trainings[key] = require(resources.mapping[key]);
 }
 
-console.log(resources)
-
 module.exports = resources;
