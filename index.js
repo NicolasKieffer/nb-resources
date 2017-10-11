@@ -3,11 +3,13 @@
 /* jslint indent: 2 */
 'use strict';
 
+let fs = require('fs');
+
 let resources = {
   "trainings": {},
   "mapping": require("./mapping.json"),
   "verbalization": require("./verbalization.json"),
-  "template": "./fragment.tei.xml.tpl"
+  "template": fs.readFileSync("./fragment.tei.xml.tpl", 'utf-8')
 };
 
 for (let key in resources.mapping) {
